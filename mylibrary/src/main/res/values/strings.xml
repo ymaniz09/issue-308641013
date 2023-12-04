@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active">Active</string>
+    <string name="canceled">Canceled</string>
+    <string name="creating">Creating</string>
+    <string name="pending">Pending</string>
+    <string name="processing">Processing</string>
+    <string name="stale">Stale</string>
+    <string name="complete">Complete</string>
+    <string name="denied">Denied</string>
+</resources>
